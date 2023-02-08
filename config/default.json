@@ -1,6 +1,6 @@
 {
   "jwtPrivateKey": "mySecureKey",
-  "db": "vidly_db",
+  "db": "mongodb://localhost:27017",
   "port": "4000",
   "requiresAuth": true
 }
